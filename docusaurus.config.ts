@@ -58,7 +58,7 @@ const config: Config = {
       title: 'Hack Caps', // title replace with your site name
       logo: {
         alt: 'Hack Caps Logo',
-        src: 'img/logo.svg',
+        src: 'img/hkcps.png',
       },
       items: [
         {  // copy for new section thingies
