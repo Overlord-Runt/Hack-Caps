@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Welcome to Hack Caps!`}
+      description="YSWS where you make your own custom Keyboard Keycaps!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
