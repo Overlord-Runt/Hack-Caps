@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://testing.taranium.xyz',
+  url: 'https://hackcaps.taranium.xyz',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/', // like if you want this on a path instead of a subdomain/apex domain
@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Overlord-Runt', // Usually your GitHub org/user name.
-  projectName: 'my-website', // Usually your repo name.
+  projectName: 'Hack-Caps', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -74,7 +74,7 @@ const config: Config = {
           label: 'Worky',
         },
         {
-          href: 'https://github.com/Overlord-Runt/Docusaurus-Template', // repo link
+          href: 'https://github.com/Overlord-Runt/Hack-Caps', // repo link
           label: 'GitHub',
           position: 'right',
         },
