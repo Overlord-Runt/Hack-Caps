@@ -55,7 +55,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Hack Caps', // title replace with your site name
+      title: 'Hack Caps potato', // title replace with your site name
       logo: {
         alt: 'Hack Caps Logo',
         src: 'img/hkcps.png',
