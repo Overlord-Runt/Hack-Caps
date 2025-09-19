@@ -97,7 +97,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',  // replace with the links you want or remove what you want
+          title: 'Acknowledgement Of Country',  // replace with the links you want or remove what you want
           items: [
             {
               label: 'Youtube',
@@ -114,7 +114,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Community',
           items: [
             {
               label: 'GitHub',
@@ -127,7 +127,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Taranium, Inc. Built with Docusaurus.`,
+      copyright: `Made by @Overlord Runt // Taran The Idiot. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
