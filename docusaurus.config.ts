@@ -97,7 +97,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Communit',  // replace with the links you want or remove what you want
+          title: 'Community',  // replace with the links you want or remove what you want
           items: [
             {
               label: 'Youtube',
@@ -114,7 +114,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'More',
           items: [
             {
               label: 'GitHub',
