@@ -65,13 +65,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Helpy Thing',
+          label: 'Requirements',
         },
         {  // copy for new section thingies
           type: 'docSidebar',
           sidebarId: 'workySidebar',
           position: 'left',
-          label: 'Worky',
+          label: 'Tutorial',
         },
         {
           href: 'https://github.com/Overlord-Runt/Hack-Caps', // repo link
@@ -87,13 +87,17 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Helpy Thing', // replace with title of the button thing
-              to: '/docs/howuse/intro', // path to the doc
+              label: 'Requirements', // replace with title of the button thing
+              to: '/docs/Requirements/intro', // path to the doc
+            },
+            {
+              label: 'Tutorial', // replace with title of the button thing
+              to: '/docs/Tutorial/intro', // path to the doc
             },
           ],
         },
         {
-          title: 'Community',  // replace with the links you want or remove what you want
+          title: 'Communit',  // replace with the links you want or remove what you want
           items: [
             {
               label: 'Youtube',
@@ -110,11 +114,15 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Community',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Overlord-Runt/Docusaurus-Template',  // repo link
+              href: 'https://github.com/Overlord-Runt/Hack-Caps',  // repo link
+            },
+            {
+              label: 'Slack',
+              href: 'https://hackclub.slack.com/',
             },
           ],
         },
