@@ -5,14 +5,14 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Svg: React.ComponentType<React.ComponentProps<'svg'>> | string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Design Your caps',
-    Svg: require('@site/static/img/design.png').default,
+    Svg: '/img/design.png',
     description: (
       <>
         Make designs and model them in CAD software!
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Make a Repo!',
-    Svg: require('@site/static/img/repo.png').default,
+    Svg: '/img/repo.png',
     description: (
       <>
         Make a Github Repo with your designs as well as a <a href="#">journal</a> of your process!
@@ -43,7 +43,11 @@ function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        {typeof Svg === 'string' ? (
+          <img src={Svg} className={styles.featureSvg} role="img" alt={title} />
+        ) : (
+          <Svg className={styles.featureSvg} role="img" />
+        )}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
