@@ -1,9 +1,9 @@
 {
-  "label": "Mandatory dropdown",
+  "label": "Step-by-Step Requirements",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Each tab needs a dropdown like this"
+    "description": "These are the step-by-step requirements for Hack Caps. If you got any questions, drop em on slack and I will help you :)"
   }
 }
 

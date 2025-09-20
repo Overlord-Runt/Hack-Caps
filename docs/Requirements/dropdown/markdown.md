@@ -2,7 +2,18 @@
 sidebar_position: 1
 ---
 
-# Mandatories
+# Journals
 
-Every Tab needs a dropdown like this
+You must journal your time **AS YOU MAKE YOUR CAPS.** 
+
+You cannot retroactively journal these.
+
+## What do I need for the journal to count?
+
+You need to have minimum 2 pictures of each cap. One of the design that you are going to put, and another of the end final product. You are free to add more pictures of the design process as you feel is necessary. 
+
+## How do I structure my journal?
+
+Your journal should be called `JOURNAL.md` and every entry should include the date as a title. You can then make your journal entry for the day. Include images that document what you did and text explaining you thought process, what you did, a fun joke, anything!
+
 

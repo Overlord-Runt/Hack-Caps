@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Second Tab
+# Submisssion Requirements
 
 This is a second tab
