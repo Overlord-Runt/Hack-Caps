@@ -101,7 +101,6 @@ const config: Config = {
           items: [
             {
               label: 'We acknowledge and pay respect to the Traditional Owners of the land on which this site was built, the Darug people, and pay our respects to Elders past, present and emerging. And to the youth working with us today',
-              to: '#',
             },
           ],
         },
