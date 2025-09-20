@@ -97,19 +97,11 @@ const config: Config = {
           ],
         },
         {
-          title: 'Acknowledgement Of Country',  // replace with the links you want or remove what you want
+          title: 'Acknowledgement Of Country',
           items: [
             {
-              label: 'Youtube',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'We acknowledge and pay respect to the Traditional Owners of the land on which this site was built, the Darug people, and pay our respects to Elders past, present and emerging. And to the youth working with us today',
+              to: '#',
             },
           ],
         },
@@ -122,7 +114,7 @@ const config: Config = {
             },
             {
               label: 'Slack',
-              href: 'https://hackclub.slack.com/',
+              href: 'https://app.slack.com/client/T0266FRGM/C08913QV7S7',
             },
           ],
         },
