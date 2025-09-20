@@ -10,7 +10,7 @@ You cannot retroactively journal these.
 
 ## What do I need for the journal to count?
 
-You need to have minimum 2 pictures of each cap. One of the design that you are going to put, and another of the end final product. You are free to add more pictures of the design process as you feel is necessary. 
+You need to have minimum 2 pictures of each cap. One of the design that you are going to put, and another of the end final product. You are free to add more pictures of the design process as you feel is necessary. Put text under each picture that explains each one.
 
 ## How do I structure my journal?
 
