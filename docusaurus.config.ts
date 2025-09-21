@@ -100,7 +100,7 @@ const config: Config = {
           title: 'Acknowledgement Of Country',
           items: [
             {
-              html: 'We acknowledge and pay respect to the Traditional Owners of the land on which this site was built, the Darug people, and pay our respects to Elders past, present and emerging. And to the youth working with us today',
+              html: 'We acknowledge and pay respect to the Traditional Owners of the land on which this site was built, the Darug people, and pay our respects to the Elders past, present and emerging. And to the youth working with us today',
             },
           ],
         },
