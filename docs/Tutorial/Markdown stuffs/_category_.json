@@ -1,8 +1,8 @@
 {
-  "label": "Markdown Stuff",
+  "label": "The Guide",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "A quick and awesome guide to custom keycaps!"
   }
 }
