@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Svg: '/img/repo.png',
     description: (
       <>
-        Make a Github Repo with your designs as well as a <a href="#">journal</a> of your process!
+        Make a Github Repo with your designs as well as a <a href="/docs/Requirements/steps/journal">journal</a> of your process!
       </>
     ),
   },
