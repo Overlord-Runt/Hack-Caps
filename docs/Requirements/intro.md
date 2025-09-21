@@ -6,4 +6,4 @@ sidebar_position: 1
 
 Every hack caps submission should fulfill the following requirements
 
-[ ]- eats a potato
+[ ] eats a potato
